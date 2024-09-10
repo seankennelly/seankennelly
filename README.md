@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @seankennelly
+- 👋 Hi, I’m @seankennelly. Reach me on www.seankennelly.com
 - 👀 I’m interested in developing something beautiful
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React and Javascript projects
-- 📫 How to reach me: sean.kennelly@hotmail.co.uk
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also make punk music under the name Kenny Erikson
 
